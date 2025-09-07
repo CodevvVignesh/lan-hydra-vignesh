@@ -1,0 +1,3 @@
+[submodule "third_party/canbus"]
+	path = third_party/canbus
+	url = https://github.com/DoctorSauerkraut/canbus.git
