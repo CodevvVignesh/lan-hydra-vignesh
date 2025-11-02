@@ -279,11 +279,19 @@ python lanhydra.py attack --type advanced --attack spoof --id 0x100 --spoof-valu
 
 ## 🤝 Contributing
 
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
+This project evolved through collaborative feature development. Contributions followed this workflow:
+
+1. **Feature Planning** - Discuss proposed features and architecture
+2. **Development** - Create feature branch (`git checkout -b feature/feature-name`)
+3. **Implementation** - Build and test the feature
+4. **Code Review** - Submit pull request for review
+5. **Integration** - Merge approved features into main branch
+
+### Key Contributions Included:
+- CAN bus injection core functionality
+- Attack module plugins (flooding, fuzzing, injection) 
+- Network monitoring capabilities
+- ECU simulation tools
 
 ## 📄 License
 
@@ -314,8 +322,8 @@ This tool is designed for educational and authorized security testing purposes o
 
 ## 📞 Contact
 
-- GitHub: [@nithinj25](https://github.com/nithinj25)
-- Project Link: [https://github.com/nithinj25/lan-hydra](https://github.com/nithinj25/lan-hydra)
+- GitHub: [@CodevvVignesh](https://github.com/CodevvVignesh)
+- Project Link: [https://github.com/CodevvVignesh/lan-hydra-vignesh](https://github.com/CodevvVignesh/lan-hydra-vignesh)
 
 ## 🏷️ Repository Topics
 
